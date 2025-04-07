@@ -14,6 +14,12 @@ Collection of Highlight and Oral Paper in CVPR 2025
 - [Transformer](#Transformer)
 - [Diffusion](#Diffusion)
 
+
+## Diffusion
+**Alias-Free Latent Diffusion Models**
+- [Homepage](https://zhouyifan.net/AF-LDM-Page/)
+- [Paper](https://arxiv.org/abs/2503.09419)
+
 # CVPR-2025-Highlight
 
 **Geometric Refinements of LLM Common Sense Reasoning for 3D Object Placement**
