@@ -29,6 +29,10 @@ Collection of Highlight and Oral Paper in CVPR 2025
 **Geometric Refinements of LLM Common Sense Reasoning for 3D Object Placement**
 - [Homepage](https://fireplace3d.github.io/)
 - [Paper](https://arxiv.org/abs/2503.04919)
+  
+**Open-Vocabulary Functional 3D Scene Graphs for Real-World Indoor Spaces**
+- [Homepage](https://openfungraph.github.io/)
+- [Paper](https://arxiv.org/abs/2503.19199)
 
 **SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration**
 - [Homepage](https://iceclear.github.io/projects/seedvr/)
