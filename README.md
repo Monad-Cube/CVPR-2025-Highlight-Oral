@@ -30,6 +30,10 @@ Collection of Highlight and Oral Paper in CVPR 2025
 - [Homepage](https://fireplace3d.github.io/)
 - [Paper](https://arxiv.org/abs/2503.04919)
 
+**SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration**
+- [Homepage](https://iceclear.github.io/projects/seedvr/)
+- [Paper](https://arxiv.org/abs/2501.01320)
+
 **BlenderGym: Benchmarking Foundational Model Systems for Graphics Editing**
 - [Homepage]()
 - [Paper](https://arxiv.org/abs/2504.01786)
