@@ -29,6 +29,10 @@ Collection of Highlight and Oral Paper in CVPR 2025
 **Geometric Refinements of LLM Common Sense Reasoning for 3D Object Placement**
 - [Homepage](https://fireplace3d.github.io/)
 - [Paper](https://arxiv.org/abs/2503.04919)
+
+**Matrix3D: Large Photogrammetry Model All-in-One**
+- [Homepage](https://nju-3dv.github.io/projects/matrix3d/)
+- [Paper](https://arxiv.org/abs/2502.07685)
   
 **Open-Vocabulary Functional 3D Scene Graphs for Real-World Indoor Spaces**
 - [Homepage](https://openfungraph.github.io/)
