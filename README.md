@@ -3,26 +3,63 @@ Collection of Highlight and Oral Paper in CVPR 2025
 
 # CVPR-2025-Oral
 
-- [2D Scene Understanding](#2DSU)
-- [3D Scene Understanding](#3DSU)
-- [NeRF/Gaussian](#NG)
+- [Scene Understanding](#SceneUnderstanding)
+- [Reconstruction](#Reconstruction)
 - [2D Generation](#Gen)
 - [3D Generation](#3DGen)
 - [Human](#Human)
 - [Video](#Video)
 - [LLM/MLLM/VLM](#MLLM)
+- [NeRF/Gaussian](#NG)
 - [Transformer](#Transformer)
 - [Diffusion](#Diffusion)
+- [Model](#Model)
 
-## 3D Scene Understanding
+## Scene Understanding
 **FoundationStereo: Zero-Shot Stereo Matching**
 - [Homepage](https://nvlabs.github.io/FoundationStereo/)
 - [Paper](https://arxiv.org/abs/2501.09898)
 
-# 2D Generation
+**SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images**
+- [Homepage](https://likyoo.github.io/SegEarth-OV/)
+- [Paper](https://arxiv.org/abs/2410.01768)
+
+## Reconstruction
+**FoundationStereo: Zero-Shot Stereo Matching**
+- [Homepage](https://zju3dv.github.io/murre/)
+- [Paper](https://arxiv.org/abs/2503.14483)
+
+## 2D Generation
 **Infinity∞: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis**
 - [Homepage](https://foundationvision.github.io/infinity.project/)
 - [Paper](https://arxiv.org/abs/2412.04431)
+
+**RandAR: Decoder-only Autoregressive Visual Generation in Random Orders**
+- [Homepage](https://rand-ar.github.io/)
+- [Paper](https://arxiv.org/abs/2412.01827)
+
+**AnyEdit: Mastering Unified High-Quality Image Editing for Any Idea**
+- [Homepage](https://dcd-anyedit.github.io/)
+- [Paper](https://arxiv.org/abs/2411.15738)
+
+## Human
+**TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization**
+- [Homepage](https://liangpan99.github.io/TokenHSI/)
+- [Paper](https://arxiv.org/abs/2503.19901)
+
+## Video
+**VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection**
+- [Code](https://github.com/hshjerry/VideoEspresso)
+- [Paper](https://arxiv.org/abs/2411.14794)
+
+## LLM/MLLM/VLM
+**Closed-Loop Supervised Fine-Tuning of Tokenized Traffic Models**
+- [Homepage](https://zhejz.github.io/catk/)
+- [Paper](https://arxiv.org/abs/2412.05334)
+
+**Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key**
+- [Homepage](https://opa-dpo.github.io/)
+- [Paper](https://arxiv.org/abs/2501.09695)
 
 ## Transformer
 **VGGT: Visual Geometry Grounded Transformer**
@@ -34,9 +71,18 @@ Collection of Highlight and Oral Paper in CVPR 2025
 - [Code](https://github.com/hustvl/LightningDiT)
 - [Paper](https://arxiv.org/abs/2501.01423)
 
+**Improving Diffusion Inverse Problem Solving with Decoupled Noise Annealing**
+- [Homepage](https://daps-inverse-problem.github.io/)
+- [Paper](https://arxiv.org/abs/2407.01521)
+
 **Alias-Free Latent Diffusion Models**
 - [Homepage](https://zhouyifan.net/AF-LDM-Page/)
 - [Paper](https://arxiv.org/abs/2503.09419)
+
+## Model
+**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**
+- [Code](https://github.com/LMMMEng/OverLoCK)
+- [Paper](https://arxiv.org/abs/2502.20087)
 
 # CVPR-2025-Highlight
 
