@@ -5,8 +5,8 @@ Collection of Highlight and Oral Paper in CVPR 2025
 
 - [Scene Understanding](#SceneUnderstanding)
 - [Reconstruction](#Reconstruction)
-- [2D Generation](#Gen)
-- [3D Generation](#3DGen)
+- [2D Generation](#2DGeneration)
+- [3D Generation](#3DGeneration)
 - [Human](#Human)
 - [Video](#Video)
 - [LLM/MLLM/VLM](#MLLM)
@@ -34,6 +34,9 @@ Collection of Highlight and Oral Paper in CVPR 2025
 - [Homepage](https://foundationvision.github.io/infinity.project/)
 - [Paper](https://arxiv.org/abs/2412.04431)
 
+**Minority-Focused Text-to-Image Generation via Prompt Optimization**
+- [Code](https://github.com/soobin-um/MinorityPrompt)
+
 **RandAR: Decoder-only Autoregressive Visual Generation in Random Orders**
 - [Homepage](https://rand-ar.github.io/)
 - [Paper](https://arxiv.org/abs/2412.01827)
@@ -60,6 +63,11 @@ Collection of Highlight and Oral Paper in CVPR 2025
 **Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key**
 - [Homepage](https://opa-dpo.github.io/)
 - [Paper](https://arxiv.org/abs/2501.09695)
+
+## NeRF/Gaussian
+**3D Student Splatting and Scooping**
+- [Code](https://github.com/realcrane/3D-student-splating-and-scooping)
+- [Paper](https://arxiv.org/abs/2503.10148)
 
 ## Transformer
 **VGGT: Visual Geometry Grounded Transformer**
