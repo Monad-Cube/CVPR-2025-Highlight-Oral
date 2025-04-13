@@ -14,8 +14,26 @@ Collection of Highlight and Oral Paper in CVPR 2025
 - [Transformer](#Transformer)
 - [Diffusion](#Diffusion)
 
+## 3D Scene Understanding
+**FoundationStereo: Zero-Shot Stereo Matching**
+- [Homepage](https://nvlabs.github.io/FoundationStereo/)
+- [Paper](https://arxiv.org/abs/2501.09898)
+
+# 2D Generation
+**Infinity∞: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis**
+- [Homepage](https://foundationvision.github.io/infinity.project/)
+- [Paper](https://arxiv.org/abs/2412.04431)
+
+## Transformer
+**VGGT: Visual Geometry Grounded Transformer**
+- [Homepage](https://vgg-t.github.io/)
+- [Paper](https://arxiv.org/abs/2503.11651)
 
 ## Diffusion
+**Reconstruction vs. Generation:Taming Optimization Dilemma in Latent Diffusion Models**
+- [Code](https://github.com/hustvl/LightningDiT)
+- [Paper](https://arxiv.org/abs/2501.01423)
+
 **Alias-Free Latent Diffusion Models**
 - [Homepage](https://zhouyifan.net/AF-LDM-Page/)
 - [Paper](https://arxiv.org/abs/2503.09419)
