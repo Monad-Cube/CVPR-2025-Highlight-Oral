@@ -45,6 +45,10 @@ Collection of Highlight and Oral Paper in CVPR 2025
 - [Homepage](https://dcd-anyedit.github.io/)
 - [Paper](https://arxiv.org/abs/2411.15738)
 
+**Adv-CPG: A Customized Portrait Generation Framework with Facial Adversarial Attacks**
+- [Code](https://github.com/April-yy/Adv-CPG)
+- [Paper](https://arxiv.org/abs/2503.08269)
+
 ## Human
 **TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization**
 - [Homepage](https://liangpan99.github.io/TokenHSI/)
