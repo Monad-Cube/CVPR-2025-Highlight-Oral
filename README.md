@@ -125,3 +125,7 @@ Collection of Highlight and Oral Paper in CVPR 2025
 **VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**
 - [Homepage](https://hanyang-21.github.io/VideoScene/)
 - [Paper](https://arxiv.org/abs/2504.01956)
+
+  **SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration**
+- [Code](https://github.com/JinLi998/CanonObjaverseDataset)
+- [Paper]()
