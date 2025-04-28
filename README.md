@@ -129,3 +129,7 @@ Collection of Highlight and Oral Paper in CVPR 2025
   **SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration**
 - [Code](https://github.com/JinLi998/CanonObjaverseDataset)
 - [Paper]()
+
+  **The Scene Language: Representing Scenes with Programs, Words, and Embeddings**
+- [Homepage](https://ai.stanford.edu/~yzzhang/projects/scene-language/)
+- [Paper](https://arxiv.org/abs/2410.16770)
