@@ -7,6 +7,7 @@ Collection of Highlight and Oral Paper in CVPR 2025
 - [Reconstruction](#Reconstruction)
 - [2D Generation](#2DGeneration)
 - [3D Generation](#3DGeneration)
+- [4D Generation](#4DGeneration)
 - [Human](#Human)
 - [Video](#Video)
 - [LLM/MLLM/VLM](#MLLM)
@@ -48,6 +49,11 @@ Collection of Highlight and Oral Paper in CVPR 2025
 **Adv-CPG: A Customized Portrait Generation Framework with Facial Adversarial Attacks**
 - [Code](https://github.com/April-yy/Adv-CPG)
 - [Paper](https://arxiv.org/abs/2503.08269)
+
+## 4D Generation
+**Birth and Death of a Rose**
+- [Homepage](https://chen-geng.com/rose4d)
+- [Paper](https://arxiv.org/abs/2412.05278)
 
 ## Human
 **TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization**
@@ -126,10 +132,14 @@ Collection of Highlight and Oral Paper in CVPR 2025
 - [Homepage](https://hanyang-21.github.io/VideoScene/)
 - [Paper](https://arxiv.org/abs/2504.01956)
 
-  **SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration**
+**SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration**
 - [Code](https://github.com/JinLi998/CanonObjaverseDataset)
 - [Paper]()
 
-  **The Scene Language: Representing Scenes with Programs, Words, and Embeddings**
+**The Scene Language: Representing Scenes with Programs, Words, and Embeddings**
 - [Homepage](https://ai.stanford.edu/~yzzhang/projects/scene-language/)
 - [Paper](https://arxiv.org/abs/2410.16770)
+
+**WonderWorld: Interactive 3D Scene Generation from a Single Image**
+- [Homepage](https://kovenyu.com/wonderworld/)
+- [Paper](https://arxiv.org/abs/2406.09394)
