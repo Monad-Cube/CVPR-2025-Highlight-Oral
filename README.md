@@ -108,6 +108,10 @@ Collection of Highlight and Oral Paper in CVPR 2025
 - [Homepage](https://3dtopia.github.io/3DTopia-XL/)
 - [Paper](https://arxiv.org/abs/2409.12957)
 
+**MeshGen: Generating PBR Textured Mesh with Render-Enhanced Auto-Encoder and Generative Data Augmentation**
+- [Homepage](https://heheyas.github.io/MeshGen/)
+- [Paper](https://arxiv.org/abs/2505.04656)
+
 **Geometric Refinements of LLM Common Sense Reasoning for 3D Object Placement**
 - [Homepage](https://fireplace3d.github.io/)
 - [Paper](https://arxiv.org/abs/2503.04919)
